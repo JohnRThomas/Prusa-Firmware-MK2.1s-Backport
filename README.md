@@ -1,5 +1,7 @@
-# Prusa Firmware MK3
+# About This Fork
+This fork is for a "MK2.1S" printer, where the only thing upgraded over the MK2S is the steel sheet heat bed. No PINDA V2 or Filament sensor is installed on the printer.
 
+# Prusa Firmware MK3 
 This repository contains the source code and the development versions of the firmware running on the [Original Prusa i3](https://prusa3d.com/) MK3S/MK3/MK2.5S/MK2.5 line of printers.
 
 The latest official builds can be downloaded from [Prusa Drivers](https://www.prusa3d.com/drivers/). Pre-built development releases are also [available here](https://github.com/prusa3d/Prusa-Firmware/releases).
